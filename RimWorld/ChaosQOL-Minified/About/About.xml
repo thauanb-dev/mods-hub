@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+  <name>ChaosQOL - Minified Ultimate</name>
+  <author>thx0s</author>
+  <description>Minified</description>
+  <packageId>thx0s.minifiedultimate</packageId>
+
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+
+  <modDependencies>
+    <li>
+      <packageId>Aoba.DeadManSwitch.Core</packageId>
+      <displayName>The Dead Man's Switch</displayName>
+      <downloadUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3121742525</downloadUrl>
+    </li>
+  </modDependencies>
+
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>VanillaExpanded.VanillaTradingExpanded</li>
+    <li>Aoba.DeadManSwitch.Core</li>
+  </loadAfter>
+<modVersion>1.0.0</modVersion></ModMetaData>

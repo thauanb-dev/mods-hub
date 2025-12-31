@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="DMS_Recharger"]</xpath>
+        <value>
+            <minifiedDef>MinifiedThing</minifiedDef>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="DMS_MechGestatorSamll"]</xpath>
+        <value>
+            <minifiedDef>MinifiedThing</minifiedDef>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="DMS_TrashBin_Base"]</xpath>
+        <value>
+            <minifiedDef>MinifiedThing</minifiedDef>
+        </value>
+    </Operation>
+</Patch>

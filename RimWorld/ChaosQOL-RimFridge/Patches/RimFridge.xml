@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- RimFridge -->
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[@Name="FridgeBase"]/building/maxItemsInCell</xpath>
+    <value>
+      <maxItemsInCell>6</maxItemsInCell>
+    </value>
+  </Operation>
+</Patch>

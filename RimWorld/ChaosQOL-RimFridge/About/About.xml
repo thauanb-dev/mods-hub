@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Chaos QOL - RimFridge</name>
+  <author>thx0s</author>
+  <description>Change the max item in cell to 2x</description>
+  <packageId>thx0s.rimfridge</packageId>
+
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+
+  <modDependencies>
+    <li>
+      <packageId>rimfridge.kv.rw</packageId>
+      <displayName>RimFridge: Now with Shelves!</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2898411376</steamWorkshopUrl>
+      <downloadUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2898411376</downloadUrl>
+    </li>
+  </modDependencies>
+
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>rimfridge.kv.rw</li>
+  </loadAfter>
+</ModMetaData>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="DMS_Recharger"]/comps/li[@Class="CompProperties_Power"]/basePowerConsumption</xpath>
+        <value>
+            <basePowerConsumption>25</basePowerConsumption>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="DMS_MechGestatorSamll"]/comps/li[@Class="CompProperties_Power"]/basePowerConsumption</xpath>
+        <value>
+            <basePowerConsumption>50</basePowerConsumption>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="DMS_TrashBin_Base"]/comps/li[@Class="CompProperties_Power"]/basePowerConsumption</xpath>
+        <value>
+            <basePowerConsumption>15</basePowerConsumption>
+        </value>
+    </Operation>
+</Patch>
+
