@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thauanb\\Desktop\\Code\\C#\\thx0s\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5AD012-6358-43F3-9EFA-6CAE1649DA32}|thx0s.csproj|c:\\users\\thauanb\\desktop\\code\\c#\\thx0s\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5AD012-6358-43F3-9EFA-6CAE1649DA32}|thx0s.csproj|solutionrelative:init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5AD012-6358-43F3-9EFA-6CAE1649DA32}|thx0s.csproj|c:\\users\\thauanb\\desktop\\code\\c#\\thx0s\\hotkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5AD012-6358-43F3-9EFA-6CAE1649DA32}|thx0s.csproj|solutionrelative:hotkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5AD012-6358-43F3-9EFA-6CAE1649DA32}|thx0s.csproj|c:\\users\\thauanb\\desktop\\code\\c#\\thx0s\\hotkeypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5AD012-6358-43F3-9EFA-6CAE1649DA32}|thx0s.csproj|solutionrelative:hotkeypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Init.cs",
+              "DocumentMoniker": "C:\\Users\\thauanb\\Desktop\\Code\\C#\\thx0s\\Init.cs",
+              "RelativeDocumentMoniker": "Init.cs",
+              "ToolTip": "C:\\Users\\thauanb\\Desktop\\Code\\C#\\thx0s\\Init.cs",
+              "RelativeToolTip": "Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T17:56:37.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HotkeyPatch.cs",
+              "DocumentMoniker": "C:\\Users\\thauanb\\Desktop\\Code\\C#\\thx0s\\HotkeyPatch.cs",
+              "RelativeDocumentMoniker": "HotkeyPatch.cs",
+              "ToolTip": "C:\\Users\\thauanb\\Desktop\\Code\\C#\\thx0s\\HotkeyPatch.cs",
+              "RelativeToolTip": "HotkeyPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T17:31:11.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hotkey.cs",
+              "DocumentMoniker": "C:\\Users\\thauanb\\Desktop\\Code\\C#\\thx0s\\Hotkey.cs",
+              "RelativeDocumentMoniker": "Hotkey.cs",
+              "ToolTip": "C:\\Users\\thauanb\\Desktop\\Code\\C#\\thx0s\\Hotkey.cs",
+              "RelativeToolTip": "Hotkey.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T17:31:04.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 94,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+C:\Users\thauanb\Desktop\Code\C#\thx0s\obj\Debug\thx0s.csproj.AssemblyReference.cache
+C:\Users\thauanb\Desktop\Code\C#\thx0s\obj\Debug\thx0s.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\thx0s_test\Assemblies\thx0s.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\thx0s_test\Assemblies\thx0s.pdb
+C:\Users\thauanb\Desktop\Code\C#\thx0s\obj\Debug\thx0s.csproj.Up2Date
+C:\Users\thauanb\Desktop\Code\C#\thx0s\obj\Debug\thx0s.dll
+C:\Users\thauanb\Desktop\Code\C#\thx0s\obj\Debug\thx0s.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\thx0s - DevTool\Assemblies\thx0s.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\thx0s - DevTool\Assemblies\thx0s.pdb
